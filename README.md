@@ -48,7 +48,9 @@ Scripts used during reverse engineering:
 
 ## Credit
 
-Original Coruna dump posted by [@matteyeux](https://github.com/matteyeux/coruna). Analysis, extraction, and deobfuscation by [@Nadsec](https://x.com/Nadsec11).
+Original Coruna dump posted by [@matteyeux](https://github.com/matteyeux/coruna). Analysis, extraction, and in this case deobfuscation by [@Nadsec](https://x.com/Nadsec11).
+
+I by no means found the URL'S.
 
 ## Disclaimer
 
